@@ -11,7 +11,7 @@ namespace Vlookup_Function
     {
         [STAThread]
         static void Main(string[] args)
-        {   //This is test the commit process
+        {   
             Console.WriteLine("Please Identify Locale for Export");
             string locale = Console.ReadLine();
             Console.WriteLine("Please Choose EDW File");
